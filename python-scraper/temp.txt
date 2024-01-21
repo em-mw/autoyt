@@ -1,0 +1,1 @@
+python upload_video.py --file="C:\\Users\\annab\\OneDrive\\Desktop\\python_scraper\\outputs\\final.mp4" --title="Memes that will goofy ahh ly cap g dog🤣🤣😎😁😁😀😎" --description="Credit" --keywords="funny,memes,bigdog,bigdogmemes" --category="22" --privacyStatus="public"

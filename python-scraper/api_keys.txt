@@ -1,0 +1,2 @@
+Client ID: 1040179316420-sn4ak70t1qpe0cuk76v5cgmiqe2nsn6b.apps.googleusercontent.com
+Client secret: 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
